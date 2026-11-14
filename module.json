@@ -3,7 +3,7 @@
   "name": "browser-game-world-filament",
   "display_name": "Browser Game World Filament",
   "description": "Filament 5 world catalog resource.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "category": "presentation",
   "provider": "Liberu\\BrowserGame\\WorldFilament\\WorldFilamentServiceProvider",
   "requires": {
